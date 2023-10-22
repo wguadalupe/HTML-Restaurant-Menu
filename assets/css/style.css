@@ -84,3 +84,15 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+
+
+.centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction:column;
+    margin: 0 auto;  
+    max-width: 600px; 
+  }
+  
